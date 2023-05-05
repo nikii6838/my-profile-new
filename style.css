@@ -203,10 +203,13 @@ td {
 
 
 }
-#img{
+
+#img {
     border-radius: 50px;
 
 }
-#hobbi,#achiv{
+
+#hobbi,
+#achiv {
     color: #000000;
 }
